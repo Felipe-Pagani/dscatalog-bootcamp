@@ -10,7 +10,7 @@ public class Role implements Serializable {
 
 	public Role() {
 	}
-
+	
 	public Role(Long id, String authority) {
 		super();
 		this.id = id;
