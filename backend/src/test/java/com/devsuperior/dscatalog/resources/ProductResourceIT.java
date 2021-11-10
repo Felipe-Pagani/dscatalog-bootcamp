@@ -30,9 +30,6 @@ public class ProductResourceIT {
 	private Long existingId;
 	private Long nonExistingId;
 	private Long countTotalProducts;
-
-	
-	
 	@Autowired
 	 private ObjectMapper objectMapper;
 	

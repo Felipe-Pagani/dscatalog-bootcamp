@@ -33,7 +33,6 @@ public class ProductServiceIT {
 		existingId = 1L;
 		nonExistingId = 1000L;
 		countTotalProducts = 25L;
-		
 	}
 	
 	@Test
